@@ -9,5 +9,4 @@ with sns.axes_style('whitegrid'):
     plt.xlabel('Dia')
     plt.ylabel('Preço da Gasolina')
     plt.title('Preço da Gasolina por Dia')
-
-plt.savefig('gasolina.png')
+    plt.savefig('gasolina.png')
